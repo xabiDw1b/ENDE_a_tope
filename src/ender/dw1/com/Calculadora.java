@@ -13,6 +13,9 @@ public class Calculadora {
 		operadorB=j;
 	}
 	
+	/**
+	* @auth idelamobis
+	*/
 	public int suma() {		
 		int resultado= operadorA+operadorB;
 		return resultado;
