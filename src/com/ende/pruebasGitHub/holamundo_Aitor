@@ -1,0 +1,9 @@
+package com.ende.pruebasGitHub;
+
+public class HolaMundo_Aitor {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hola mundo");
+	}
+}
