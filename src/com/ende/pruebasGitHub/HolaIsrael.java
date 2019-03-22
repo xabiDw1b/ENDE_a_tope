@@ -11,7 +11,7 @@ public class HolaIsrael {
 	public static void main(String[] args) {
 		
 		
-		System.out.prinln("Hola, Israel");
+		System.out.prinln("Hola, Israel a las 13:46");
 
 	}
 
